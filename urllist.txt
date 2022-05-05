@@ -1,3 +1,4 @@
+*.forkscenter.fr
 *.%PROGRAMDATA%\dropper.exe+A43A1:A1018
 *.%PROGRAMDATA%\one.exe
 *.%TMP%\alt.exe
@@ -96,7 +97,6 @@
 *.fikasterwer.top
 *.fipoleb.com
 *.fofudir.com
-*.forkscenter.fr
 *.freedynamicdns.no
 *.freedynamicdns.org
 *.freegift.cdelz.com
@@ -574,8 +574,8 @@
 *.http://159.223.5.30/target/marshalsec-0.0.3-SNAPSHOT-all.jar
 *.http://159.223.5.30/target/log4shell-1.0-SNAPSHOT.war
 *.http://155.94.154.170/bbb
-*.http://103.104.73.155/*
-*.http://103.104.73.155/*/
+*.http://103.104.73.155
+*.http://103.104.73.155/
 *.*.http[:]//q2.ry5u.rqasports.com/#.aHR0cHM6Ly9wcm9maWRlY29yY29uY2VwdC5yby9vb28vP2U9a3RoYXBhQGNvY2EtY29sYS5jb20ubnA=
 *.Xvitexis.com
 *.txmplanthq-my.sharepoint.com/:o:/g/personal/janette_chivers_txmplant_co_uk/Eirzj90X92ZCkm35nYoj3gkB83UdUb3Xs-UNEg3ZjAiKkw?e=2Rl2j7
@@ -596,8 +596,8 @@
 *.internode.on.net
 *.docs.google.com/forms/d/e/1FAIpQLSdBYnXDtXzPwWxTEuqAsWjAw44xGcsdJviXlqwzds7QJGNSGA/viewform
 *.chauhancomputer.com
-*.l9rwpodsxcs.appspot.com/utv/*
-*.j8sdpzxosaz.appspot.com/cxb/*
+*.l9rwpodsxcs.appspot.com/utv
+*.j8sdpzxosaz.appspot.com/cxb
 *.https://drive.google.com/uc?id=1M3WD9JN3pArqy16qCYDE3CYHX8HOaYAE&export=download
 *.https[:]//raulands.com.au)
 *.https://raulands.com.au
@@ -922,7 +922,6 @@
 *.https://uzoclouds.eu
 *.https://bibpap.com
 *.https://posqit.net
-*.zjoxyw5mkacojk5ptn2iprkivg5clow72mjkyk5ttubzxprjjnwapkad.onion nemty10.biz
 *.marsdefenseandscience.com
 *.nemty.top
 *.https://skfiresafetygroup-my.sharepoint.com/personal/kim_decoen_somatisystems_be/_layouts/15/guestaccess.aspx?folderid=0b3726c2caa27419fb38181cd52c4a88e&authkey=AciUEekqfGFdgVHDegJJ6mI&e=es6s2b
@@ -934,7 +933,7 @@
 *.iisa@iisamarine.com
 *.mailguardonline.net
 *.cybersecuritiesinc.net
-*.api.onedrive.com/v1.0/shares/s!Ajp1Jcp4TBtmgRyuTf0Ow-_r40_x/driveitem/content 
+*.api.onedrive.com/v1.0/shares/s!Ajp1Jcp4TBtmgRyuTf0Ow-_r40_x/driveitem/content
 *.dropbox.com/s/qf15ewsstzk4qoz/Thesis%20Information%20to%20be%20referenced%20from.ppt?dl=0
 *.uceaf62bf364381a378c816b41ba.dl.dropboxusercontent.com/cd/0/get/A2Vm2UTAy5MCwUTkAgc7zFzIQyACqaHZ2yiX2ORjm3twvsr6cvxtZv0ARG5lyIZq4N60QtQgVm5JL5pTbto45FtwfTs8d9-QuL3_YsAukrIOoZLpoOKRi_DRl5Wxq6TQHIk/file?dl=1
 *.login.contact.cybersecuritiesinc.net/
