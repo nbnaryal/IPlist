@@ -123,7 +123,7 @@
 *.hmgo.pw
 *.hoguyum.com
 *.hopto.org
-*.http[:]//q2.ry5u.rqasports.com/#.aHR0cHM6Ly9wcm9maWRlY29yY29uY2VwdC5yby9vb28vP2U9a3RoYXBhQGNvY2EtY29sYS5jb20ubnA=
+*.q2.ry5u.rqasports.com/#.aHR0cHM6Ly9wcm9maWRlY29yY29uY2VwdC5yby9vb28vP2U9a3RoYXBhQGNvY2EtY29sYS5jb20ubnA=
 *.45.84.0.116:443/i
 *.45.84.0.116:443/m
 *.45.84.0.116:443/p
@@ -470,10 +470,10 @@
 *.fluoxi.com
 *.freedynamicdns.net
 *.fregift.btccbot.com/coca/
-*.htxxp://78.40.219.12/load.php?individual=[REDACTED]
-*.hvp://89.223.125.10/DRIVERS.php
+*.78.40.219.12/load.php?individual=[REDACTED]
+*.89.223.125.10/DRIVERS.php
 *.37.77.105.102/cunning.php
-*.78.40.219.12/cache.php?induce=[REDACTED]
+*.78.40.219.12/cache.php?induce=REDACTED]
 *.87.249.44.41/time.php?italian=[REDACTED]
 *.87.249.44.220/get.php?indignant=[REDACTED]
 *.87.249.49.13/WHATSAAP.php
@@ -580,7 +580,7 @@
 *.Xvitexis.com
 *.txmplanthq-my.sharepoint.com/:o:/g/personal/janette_chivers_txmplant_co_uk/Eirzj90X92ZCkm35nYoj3gkB83UdUb3Xs-UNEg3ZjAiKkw?e=2Rl2j7
 *.Trywannago.com
-*.trywannago[com
+*.trywannago.com
 *.trustcontrol-my.sharepoint.com/:o:/g/personal/sistemas_ec_trustcontrol_onmicrosoft_com/ElMZSPlC3BlGhlmVhZ0qo4UBEHyyHIH4M4VPEJfti_WXJQ?e=PRwb4u
 *.teramaebousui@host.no1-server2.com
 *.Rootx_z@web04.prd.hostengine.be
@@ -937,7 +937,7 @@
 *.dropbox.com/s/qf15ewsstzk4qoz/Thesis%20Information%20to%20be%20referenced%20from.ppt?dl=0
 *.uceaf62bf364381a378c816b41ba.dl.dropboxusercontent.com/cd/0/get/A2Vm2UTAy5MCwUTkAgc7zFzIQyACqaHZ2yiX2ORjm3twvsr6cvxtZv0ARG5lyIZq4N60QtQgVm5JL5pTbto45FtwfTs8d9-QuL3_YsAukrIOoZLpoOKRi_DRl5Wxq6TQHIk/file?dl=1
 *.login.contact.cybersecuritiesinc.net/
-*.https[:]//www.mailguardonline.net/oauth/api/microsoft/callback
+*.mailguardonline.net/oauth/api/microsoft/callback
 *.api.onedrive.com/v1.0/shares/s!Ajp1Jcp4TBtmgRyuTf0Ow-_r40_x/driveitem/content
 *.login.contact.cybersecuritiesinc.net
 *.www.cybersecuritiesinc.net
