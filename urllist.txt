@@ -1,3 +1,5 @@
+*.bellebobas.com
+*.timelesstravelinc.com
 *.huayhop3.top.*
 *.zciy.info.*
 *.pdilno.buzz.*
