@@ -1,3 +1,6 @@
+*.kagoya.net
+*.pwrc.or.jp
+*.merca20.com
 *.32sssaawervvvv.biz
 *.adminmmi.biz
 *.auth2022.live
