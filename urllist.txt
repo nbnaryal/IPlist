@@ -1,3 +1,10 @@
+*.tecnicos.gesvalt.es
+*.segos.eu
+*.panacheworld.com
+*.harta.com
+*.nbhh.ae
+*.eamlb.com
+*.visual-page.com
 *.kagoya.net
 *.pwrc.or.jp
 *.merca20.com
