@@ -1,3 +1,5 @@
+*.redalerts.me/app.apk 
+*.23.254.228.135:80/file.php
 *.tecnicos.gesvalt.es
 *.segos.eu
 *.panacheworld.com
